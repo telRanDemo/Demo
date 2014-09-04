@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Some text to commit
+=======
+New size.
+>>>>>>> 61a2c99915c7f41ca36d196342f41879659df85b
